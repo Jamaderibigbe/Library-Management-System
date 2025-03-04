@@ -18,4 +18,5 @@ This project demonstrates the implementation of a Library Management System usin
 5. ## Project Structure
 
 ### 1. Database Setup
-![ERD]
+![ERD](https://github.com/Jamaderibigbe/Library-Management-System/blob/main/ERD.pgerd)
+
